@@ -5,7 +5,7 @@ const list = {
         r1: 2,
         r2: 3
     },
-    check: 300
+    check: 1000
 };
 
 
